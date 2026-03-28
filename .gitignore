@@ -9,3 +9,5 @@ coverage
 .idea
 .vscode
 .DS_Store
+_pycache__
+*.pyc
